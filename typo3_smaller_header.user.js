@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           typo3 smaller header
 // @namespace      typo3
-// @include        http://forge.typo3.org/*extension-newsletter*
+// @include        http://forge.typo3.org/*
 // ==/UserScript==
 
 GM_addStyle('#header { height: 100px; }'); 
