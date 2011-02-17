@@ -9,3 +9,5 @@ GM_addStyle('#header>#right-area>h1 { padding: 0 0 0 0; }');
 GM_addStyle('#header-left { padding: 0 0 0 0; }'); 
 GM_addStyle('#header>#header-left>#header-menu { padding: 0 0 0 0; font-size: 5pt; }'); 
 GM_addStyle('#header>#header-left>#header-menu>a.start  {margin: 0 0 0 0 }');
+GM_addStyle('table.filecontent td.line-code pre {font-size:100% !important;}');
+GM_addStyle('.autoscroll {overflow-x:visible;}');
